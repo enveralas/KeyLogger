@@ -85,5 +85,6 @@ Kod, **“keylogger” mantığını öğretimsel olarak göstermek** için haz�
 *(Form1 penceresi veya kod ekranı görseli buraya eklenebilir)*
 
 ---
-
+Çalıştığına dair YouTube Video linki :
+https://youtu.be/iiL1ex8Xy4E
 ⭐ Eğer bu projeyi beğendiysen, GitHub’da yıldız vermeyi unutma!
